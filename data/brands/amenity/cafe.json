@@ -6134,6 +6134,23 @@
       }
     },
     {
+      "displayName": "กาแฟพันธุ์ไทย",
+      "id": "punthaicoffee-b6dfae",
+      "locationSet": {"include": ["th"]},
+      "tags": {
+        "amenity": "cafe",
+        "brand": "กาแฟพันธุ์ไทย",
+        "brand:en": "Punthai Coffee",
+        "brand:th": "กาแฟพันธุ์ไทย",
+        "brand:wikidata": "Q140377250",
+        "cuisine": "coffee_shop",
+        "name": "กาแฟพันธุ์ไทย",
+        "name:en": "Punthai Coffee",
+        "name:th": "กาแฟพันธุ์ไทย",
+        "takeaway": "yes"
+      }
+    },
+    {
       "displayName": "คาเฟ่ อเมซอน",
       "id": "cafeamazon-b6dfae",
       "locationSet": {"include": ["th"]},
@@ -6147,23 +6164,6 @@
         "name": "คาเฟ่ อเมซอน",
         "name:en": "Café Amazon",
         "name:th": "คาเฟ่ อเมซอน",
-        "takeaway": "yes"
-      }
-    },
-    {
-      "displayName": "กาแฟพันธุ์ไทย",
-      "id": "punthaicoffee",
-      "locationSet": {"include": ["th"]},
-      "tags": {
-        "amenity": "cafe",
-        "brand": "กาแฟพันธุ์ไทย",
-        "brand:en": "Punthai Coffee",
-        "brand:th": "กาแฟพันธุ์ไทย",
-        "brand:wikidata": "Q140377250",
-        "cuisine": "coffee_shop",
-        "name": "กาแฟพันธุ์ไทย",
-        "name:en": "Punthai Coffee",
-        "name:th": "กาแฟพันธุ์ไทย",
         "takeaway": "yes"
       }
     },

@@ -26046,7 +26046,10 @@
       "locationSet": {
         "include": ["de-nw.geojson"]
       },
-      "matchNames": ["Stadt Düsseldorf", "Düsseldorf"],
+      "matchNames": [
+        "düsseldorf",
+        "stadt düsseldorf"
+      ],
       "tags": {
         "amenity": "school",
         "operator": "Landeshauptstadt Düsseldorf",
