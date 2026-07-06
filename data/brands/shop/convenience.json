@@ -7648,6 +7648,16 @@
       }
     },
     {
+      "displayName": "Красное&Белое",
+      "id": "45d784-4d6b4b",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Красное&Белое",
+        "name": "Красное&Белое",
+        "shop": "convenience"
+      }
+    },
+    {
       "displayName": "КуулКлевер",
       "id": "37e337-e33fbc",
       "locationSet": {"include": ["ru"]},

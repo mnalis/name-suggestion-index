@@ -970,17 +970,6 @@
       }
     },
     {
-      "displayName": "Moeve",
-      "id": "cepsa-3948da",
-      "locationSet": {"include": ["es", "pt"]},
-      "matchNames": ["cepsa"],
-      "tags": {
-        "amenity": "charging_station",
-        "operator": "Moeve",
-        "operator:wikidata": "Q608819"
-      }
-    },
-    {
       "displayName": "Charge Your Car",
       "id": "chargeyourcar-0793ce",
       "locationSet": {"include": ["gb"]},
@@ -4396,6 +4385,17 @@
         "amenity": "charging_station",
         "operator": "Modulo",
         "operator:wikidata": "Q128788809"
+      }
+    },
+    {
+      "displayName": "Moeve",
+      "id": "moeve-3948da",
+      "locationSet": {"include": ["es", "pt"]},
+      "matchNames": ["cepsa"],
+      "tags": {
+        "amenity": "charging_station",
+        "operator": "Moeve",
+        "operator:wikidata": "Q608819"
       }
     },
     {
